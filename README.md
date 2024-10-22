@@ -1,4 +1,4 @@
-# Workforce Analytics: Performance, Promotions, and Diversity
+# PWC Workforce Analytics: Performance, Promotions, and Diversity
 ![image](https://github.com/user-attachments/assets/98c14d9e-cd09-478b-88ff-214e814470c0)
 
 ## **Link to the Project:**
