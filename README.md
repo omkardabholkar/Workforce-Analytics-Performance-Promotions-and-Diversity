@@ -1,7 +1,8 @@
 # Workforce Analytics: Performance, Promotions, and Diversity
+![image](https://github.com/user-attachments/assets/98c14d9e-cd09-478b-88ff-214e814470c0)
 
 ## **Link to the Project:**
-[Provide the Power BI project link here, if available]
+https://app.powerbi.com/groups/me/reports/ec9894b8-b632-45b7-beb9-69c72347cac4/86bc10f390e3aabcab72?experience=power-bi
 
 ---
 
@@ -61,17 +62,10 @@ In this project, I analyzed workforce data to examine performance, promotions, a
 ### **Step 4: Insights and Communication**
 - Insights derived from the data were communicated to engagement partners through clear, actionable emails and presentations.
 
----
-
-## **5. Logical Diagram**
-
-Below is a visual representation of the data flow and architecture of the project:
-
-![Logical Diagram](/mnt/data/A_data_flow_diagram_inspired_by_the_previously_att.png)
 
 ---
 
-## **6. Example DAX Code for Data Analysis**
+## **5. Example DAX Code for Data Analysis**
 
 Here are examples of DAX formulas used to create calculated columns and measures for analysis:
 
